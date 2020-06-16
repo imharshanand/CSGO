@@ -1,1 +1,1 @@
-CS GO Files
+The Ultimate CS GO Config
