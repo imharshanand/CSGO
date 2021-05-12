@@ -3,6 +3,7 @@ Launch Options:
 -novid -high -tickrate 128 +exec autoexec.cfg -nojoy +fps_max 0
 
 Crosshair:
+
 CSGO-zm5vZ-JEGFN-apPxq-p4pmt-7cG4C (Green+Black+Dot+Circle)
 
 CSGO-C2pqz-3V4jN-TzvCq-dmqGM-cM8nM (Green+Black+Small+Gap)
