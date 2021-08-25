@@ -1,6 +1,6 @@
 The Ultimate CS GO Config
 Launch Options:
--novid -tickrate 128 +exec autoexec.cfg -nojoy +fps_max 300
+-novid -tickrate 128 +exec autoexec.cfg -nojoy +fps_max 300 -h 1440 -w 1920
 
 Crosshair:
 
