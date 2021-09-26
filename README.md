@@ -14,4 +14,7 @@ CSGO-DKbTd-m9sfb-nFAEz-QwXOF-ambcP (Green+Black+Big)
 
 CSGO-wQr9Y-UvGss-wpjxT-ko7C3-YnW5F (Green+Black+Only Dot)
 
-sensitivity 0.939
+sensitivity
+CS:GO 0.939
+Valorant 0.295
+Mouse 800 DPI
