@@ -13,3 +13,5 @@ CSGO-EcFpt-7Hwf7-RRhxi-SspTv-CWeKP (Line Up+Green+Black+Gap)
 CSGO-DKbTd-m9sfb-nFAEz-QwXOF-ambcP (Green+Black+Big)
 
 CSGO-wQr9Y-UvGss-wpjxT-ko7C3-YnW5F (Green+Black+Only Dot)
+
+sensitivity 0.939
