@@ -4,6 +4,8 @@ Launch Options:
 
 Crosshair:
 
+CSGO-frtGi-Etbn5-mbtV5-f9xrB-wKDhP
+
 CSGO-zm5vZ-JEGFN-apPxq-p4pmt-7cG4C (Green+Black+Dot+Circle)
 
 CSGO-C2pqz-3V4jN-TzvCq-dmqGM-cM8nM (Green+Black+Small+Gap)
